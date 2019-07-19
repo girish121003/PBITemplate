@@ -817,14 +817,14 @@ body {
     border-top-left-radius: 3px;
     border-top-right-radius: 3px; }
     .card__picture--1 {
-      background-image: -webkit-gradient(linear, left top, right bottom, from(#ffb900), to(#ff7730)), url(../img/nat-5.jpg);
-      background-image: linear-gradient(to right bottom, #ffb900, #ff7730), url(../img/nat-5.jpg); }
+      background-image: -webkit-gradient(linear, left top, right bottom, from(#ffb900), to(#ff7730)), url(../img/Akshar_Sagar.jpg);
+      background-image: linear-gradient(to right bottom, #ffb900, #ff7730), url(../img/Akshar_Sagar.jpg); }
     .card__picture--2 {
-      background-image: -webkit-gradient(linear, left top, right bottom, from(#7ed56f), to(#28b485)), url(../img/nat-6.jpg);
-      background-image: linear-gradient(to right bottom, #7ed56f, #28b485), url(../img/nat-6.jpg); }
+      background-image: -webkit-gradient(linear, left top, right bottom, from(#7ed56f), to(#28b485)), url(../img/My_First_Book_ABC.jpg);
+      background-image: linear-gradient(to right bottom, #7ed56f, #28b485), url(../img/My_First_Book_ABC.jpg); }
     .card__picture--3 {
-      background-image: -webkit-gradient(linear, left top, right bottom, from(#2998ff), to(#5643fa)), url(../img/nat-7.jpg);
-      background-image: linear-gradient(to right bottom, #2998ff, #5643fa), url(../img/nat-7.jpg); }
+      background-image: -webkit-gradient(linear, left top, right bottom, from(#2998ff), to(#5643fa)), url(../img/Rhymes_A.jpg);
+      background-image: linear-gradient(to right bottom, #2998ff, #5643fa), url(../img/Rhymes_A.jpg); }
   .card__heading {
     font-size: 2.8rem;
     font-weight: 300;
